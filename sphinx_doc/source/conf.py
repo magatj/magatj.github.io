@@ -44,8 +44,8 @@ extensions = [
     'sphinx.ext.intersphinx',
     'sphinx.ext.todo',
     'sphinx.ext.coverage',
-    'sphinx.ext.mathjax',
-	'sphinxcontrib.programoutput'
+    'sphinx.ext.mathjax'
+   #'sphinxcontrib.programoutput'
 	
 	#,'nbsphinx'
 ]
