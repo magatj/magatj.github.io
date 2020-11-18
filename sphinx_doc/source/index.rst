@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Jesse's first documentation!
-=======================================
+Welcome to the Grid Python Documentation!
+=========================================
 Guide on How to Create Adjustable Grid
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
