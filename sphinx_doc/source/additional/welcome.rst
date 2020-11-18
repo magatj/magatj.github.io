@@ -34,4 +34,4 @@ Result
 
 grid(5,6,5)
 
-.. program-output:: python 'C:\Users\jesse\Documents\sphinx_doc\source\additional\grid.py'
+.. program-output:: python 'https://github.com/magatj/magatj.github.io/edit/master/sphinx_doc/source/additional/grid.py'
