@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Test'
+project = 'Grid Python Code'
 copyright = '2020, Jesse Magat'
 author = 'Jesse Magat'
 
