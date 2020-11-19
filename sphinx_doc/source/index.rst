@@ -15,7 +15,7 @@ Guide on How to Create Adjustable Grid
    
    additional/welcome.rst
 
-.. image:: https://github.com/magatj/magatj.github.io/tree/master/sphinx_doc/source/standard-grid.jpg
+.. image:: https://github.com/magatj/magatj.github.io/tree/master/sphinx_doc/source/standard-grid.png
 
 Indices and tables
 ==================
