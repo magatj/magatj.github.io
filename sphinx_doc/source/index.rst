@@ -18,7 +18,7 @@ Guide on How to Create Adjustable Grid
 .. image:: standard-grid.png
    :width: 200
    :height: 100
-   :scale: 70%
+ 
 
 Indices and tables
 ==================
