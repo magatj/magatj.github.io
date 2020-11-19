@@ -16,7 +16,6 @@ Guide on How to Create Adjustable Grid
    additional/welcome.rst
 
 .. image:: standard-grid.png
-
    :width: 100
    :height: 100
 
