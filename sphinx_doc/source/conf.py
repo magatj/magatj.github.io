@@ -38,6 +38,11 @@ release = ''
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
+
+import sphinxcontrib.programoutput as programoutput
+
+needs_sphinx = '1.0'
+
 extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.doctest',
@@ -45,7 +50,7 @@ extensions = [
     'sphinx.ext.todo',
     'sphinx.ext.coverage',
     'sphinx.ext.mathjax'
-   #,'sphinxcontrib.programoutput'
+   ,'sphinxcontrib.programoutput'
 	
 	#,'nbsphinx'
 ]
