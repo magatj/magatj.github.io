@@ -68,5 +68,3 @@ Running command above should look like this::
 	|     |     |     |     |     |     |
 	|     |     |     |     |     |     |
 	+-----+-----+-----+-----+-----+-----+
-
->>>>>>> parent of 1c5014b... Update welcome.rst
