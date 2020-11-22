@@ -20,9 +20,3 @@ Guide on How to Create Adjustable Grid
    :height: 200
  
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
